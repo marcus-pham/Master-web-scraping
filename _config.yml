@@ -1,5 +1,5 @@
-title: 'Master Web Scraping with Python'
-subtitle: 'A new book'
+title: ''
+# subtitle: 'A new book'
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -13,4 +13,4 @@ include:
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
-  
+  - PULL_REQUEST_TEMPLATE.md
