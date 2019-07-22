@@ -1,3 +1,5 @@
+title: 'Master Web Scraping with Python'
+subtitle: 'A new book'
 plugins:
   - jekyll-relative-links
 relative_links:
