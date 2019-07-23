@@ -1,5 +1,5 @@
-title: ''
-# subtitle: 'A new book'
+title: 'master web scraping with python'
+subtitle: 'A new book'
 plugins:
   - jekyll-relative-links
 relative_links:

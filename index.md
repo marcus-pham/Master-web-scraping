@@ -1,2 +1,1 @@
-# TOC
-[Chapter 1](chapter1.md)
+[understand the big picture](understand-the-big-picture.md)
